@@ -1,0 +1,10 @@
+manifest:
+  remotes:
+    - name: caksoylar
+      url-base: https://github.com/caksoylar
+  projects:
+    - name: zmk-rgbled-widget
+      remote: caksoylar
+      revision: main
+  self:
+    path: config
